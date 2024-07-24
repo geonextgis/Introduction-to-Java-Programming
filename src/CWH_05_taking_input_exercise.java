@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class CWH_05_exercise{
+public class CWH_05_taking_input_exercise{
     public static void main(String[] args) {
         System.out.println("Taking marks as input:");
         Scanner user_input = new Scanner(System.in);
